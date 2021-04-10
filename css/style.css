@@ -4,5 +4,11 @@
     }
     
     h2 {
-        color: darkslategrey
+        color: darkslategrey;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    
+    form {
+        color: darkslategrey;
+        font-family: 'Times New Roman', Times, serif;
     }
