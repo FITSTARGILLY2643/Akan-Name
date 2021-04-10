@@ -40,3 +40,5 @@ male[3] = "Kwaku"
 male[4] = "Yaw"
 male[5] = "Kofi"
 male[6] = "Kwame"
+
+female = new MakeArray(7);
