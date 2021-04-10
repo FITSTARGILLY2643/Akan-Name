@@ -41,4 +41,12 @@ male[4] = "Yaw"
 male[5] = "Kofi"
 male[6] = "Kwame"
 
+//Initialize Female's Akan Name Array
 female = new MakeArray(7);
+female[0] = "Akosua"
+female[1] = "Adwoa"
+female[2] = "Abenaa"
+female[3] = "Akua"
+female[4] = "Yaa"
+female[5] = "Afua"
+female[6] = "Ama"
