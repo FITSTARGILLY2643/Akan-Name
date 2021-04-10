@@ -18,15 +18,19 @@
             <h1>AKAN NAMING</h1>
         </div>
         <div class="card-body bg-light">
-            <form action="">
-                <label for="birthday">Birthday:</label>
-                <input type="date" id="birthday" name="birthday"><br>
-                <input type="radio" name="gender" value="male" checked> Male<br>
-                <input type="radio" name="gender" value="female"> Female<br>
+            <h2>Enter your birthday then click Submit to get your Akan Name
+            </h2>
 
+            <form>
+                Month of Birth: <input TYPE="text" NAME="month" SIZE="2"> Day of Birth: <input TYPE="text" NAME="day" SIZE="2"> Year of Birth: <input TYPE="text" NAME="year" SIZE="4"><br><br> Choose Gender
+                <input TYPE="radio" NAME="gender" VALUE="0"> Male
+                <input TYPE="radio" NAME="gender" VALUE="1"> Female<br><br>
+                <input TYPE="button" VALUE="Submit" ONCLICK="compute(this.form)">
+                <input TYPE="reset" VALUE="Clear">
+                <p>Your Akan Name: <input TYPE="text" NAME="result2" SIZE="10"> </p>
+                <!-- <p>Date of Birth: <input TYPE="text" NAME="result1" SIZE="18"> </p> -->
             </form>
-            <input type="submit">
-            </form>
+
 
         </div>
         <div class="card-footer">
