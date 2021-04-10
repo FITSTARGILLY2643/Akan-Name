@@ -31,4 +31,12 @@ months[10] = "October"
 months[11] = "November"
 months[12] = "December"
 
+// Initialize Male 's Akan Name Array
 male = new MakeArray(7);
+male[0] = "Kwasi"
+male[1] = "Kwandwo"
+male[2] = "Kwabena"
+male[3] = "Kwaku"
+male[4] = "Yaw"
+male[5] = "Kofi"
+male[6] = "Kwame"
