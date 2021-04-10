@@ -6,6 +6,7 @@ function MakeArray(n) {
         this[i] = 0;
     }
 }
+// Initialize Days of Week Array
 days = new MakeArray(7);
 days[0] = "Saturday"
 days[1] = "Sunday"
