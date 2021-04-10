@@ -30,3 +30,5 @@ months[9] = "September"
 months[10] = "October"
 months[11] = "November"
 months[12] = "December"
+
+male = new MakeArray(7);
