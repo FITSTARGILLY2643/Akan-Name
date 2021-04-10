@@ -15,3 +15,5 @@ days[3] = "Tuesday"
 days[4] = "Wednesday"
 days[5] = "Thursday"
 days[6] = "Friday"
+
+months = new MakeArray(12);
