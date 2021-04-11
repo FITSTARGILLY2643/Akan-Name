@@ -23,10 +23,12 @@ View [live](https://fitstargilly2643.github.io/Portfolio-Landing-Page/)
 ### Contacts
 Reach us on akan.naming@moringaschool.com or call +254 725 060 098
 ### BDD
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Input    | Behaviour
+-------- | -------------
+Birthday | Determines the day of birth
+Gender   | Choose the corresponding Akan Name 
+Submit   | Calls the function that determines the Akan Name
+Clear    | Clear the form fields
 ### Licence
 This project is under the  [MIT](LICENSE) licence
 License format:
