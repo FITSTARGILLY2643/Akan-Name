@@ -22,6 +22,11 @@ To access this project on your local files, you can clone it using these steps
 View [live](https://fitstargilly2643.github.io/Portfolio-Landing-Page/)
 ### Contacts
 Reach us on akan.naming@moringaschool.com or call +254 725 060 098
+### BDD
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 ### Licence
 This project is under the  [MIT](LICENSE) licence
 License format:
