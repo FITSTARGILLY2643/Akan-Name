@@ -19,7 +19,7 @@ To access this project on your local files, you can clone it using these steps
 1. Git 
 1. JS
 ### Live Site
-View [live](https://fitstargilly2643.github.io/Portfolio-Landing-Page/)
+View [live]https://fitstargilly2643.github.io/Akan-Name/
 ### Contacts
 Reach us on akan.naming@moringaschool.com or call +254 725 060 098
 ### BDD
